@@ -1,2 +1,2 @@
-# ygoenrda-portfolio
+# yogendra-portfolio
 My personal portfolio website as a Physics PhD scholar.
